@@ -5,7 +5,7 @@ Install python 3.7.1 latest version,
 
 Install OpenCV library 3.4.1,[Link](https://pypi.org/project/opencv-python/).
 
-#How to use
+# How to use
 
 Create new file on python IDLE,
 
@@ -14,6 +14,10 @@ Get the code and an mp4 video version!
 Install all the missing necessary packages just like numpy and cv2.
 
 You can follow this instruction guide [PDF](https://media.readthedocs.org/pdf/opencv-python-tutroals/latest/opencv-python-tutroals.pdf) for any used OS.
+
+You need to load the required "XML opencv-cascade-classifier":
+
+[Haar Cascades](https://docs.opencv.org/3.1.0/d7/d8b/tutorial_py_face_detection.html) for the the face detection 
 
 Processing details:
 
