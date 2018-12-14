@@ -1,9 +1,7 @@
 # FaceTrackingPython
 Face tracking and detection on python using openCV library.Based on:[www.hackster.io](https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826) .
 
-# Local Binary Patterns Histograms, LBPH algorithm
 
-[Read more..](https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html#id22)
 
 # How to use
 
